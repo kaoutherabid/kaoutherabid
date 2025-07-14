@@ -6,7 +6,7 @@ I enjoy working with data collecting it, analyzing it, and creating visuals that
 
 So far, I’ve worked on projects that include data analysis, building visual dashboards, and creating simple data pipelines. Each project helps me grow and improve my problem solving and critical thinking.
 
-Stay tuned! I’ll be sharing some of my projects here soon.
+I’ll be sharing some of my projects here soon.
 
 <!--
 **kaoutherabid/kaoutherabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
